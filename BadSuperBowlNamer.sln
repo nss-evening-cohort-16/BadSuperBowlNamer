@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadSuperBowlNamer", "BadSuperBowlNamer\BadSuperBowlNamer.csproj", "{8664EA61-D9EA-44F2-9D45-ACD6F24BC44F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BadSuperBowlNamer.Tests", "BadSuperBowlNamer.Tests\BadSuperBowlNamer.Tests.csproj", "{62532A54-EF4A-43AF-AA4D-DF6E1BF7C850}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8664EA61-D9EA-44F2-9D45-ACD6F24BC44F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8664EA61-D9EA-44F2-9D45-ACD6F24BC44F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8664EA61-D9EA-44F2-9D45-ACD6F24BC44F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8664EA61-D9EA-44F2-9D45-ACD6F24BC44F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62532A54-EF4A-43AF-AA4D-DF6E1BF7C850}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62532A54-EF4A-43AF-AA4D-DF6E1BF7C850}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62532A54-EF4A-43AF-AA4D-DF6E1BF7C850}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62532A54-EF4A-43AF-AA4D-DF6E1BF7C850}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC925CDD-768A-4E03-99B2-B77AFFAF280D}
+	EndGlobalSection
+EndGlobal
